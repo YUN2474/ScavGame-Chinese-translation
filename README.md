@@ -1,2 +1,2 @@
-# ScavGame-Chinese-translation
-ScavGame各版本的中文翻译文件
+# 原游戏作者
+* [@Orsoniks](https://github.com/Orsoniks)
